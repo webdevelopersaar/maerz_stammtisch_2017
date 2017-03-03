@@ -37,3 +37,6 @@
 * [WebPageTest](https://www.webpagetest.org/)
 * [Speedtracker](https://speedtracker.org/)
 * [Grav](https://getgrav.org/)
+* [Gravity Forms](http://www.gravityforms.com/)
+* [Torro Forms](https://torro-forms.com/)
+* [BuddyForms](https://themekraft.com/buddyforms/)
