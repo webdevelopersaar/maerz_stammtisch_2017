@@ -1,42 +1,39 @@
-# januar_stammtisch_2017
+# März 2017
 
 ## zu Besuch bei 
 
-[Hostname](http://www.webdevstammtisch.de/)
+[Ligatura](http://www.ligatura.co/)
 
-## namen
+## Sponsor
+
+* [C3:NET](https://c3net.de/) (Christoph Schorr)
+
+## Anwesend
+
+* Christoph
+* Rolf
+* Christine
+* Katrina
+* Kevin
+* Ralf
+* Andreas
+* Dominik
 
 
-## themen
-
-### WebDev Stammtisch bekannter machen
-
-* 
-
-**Geplant:**
-
-* 
-* 
+## Themen
 
 **Vortrag** 
  
-* 
+* In Love with Facebook
 
-**Diskussionen**
- 
-*
+## Buzzwords und Links
 
-
-## buzzwords und links
-
+* Facebook
+* Ads Manager
+* OpenGraph
 
 **Weblinks**
 
-* 
-* []()
-
-## Mögliche Themen für die Zukunft
-
-* PHP richtig debuggen (Xdebug) 
-* Chef
-* 
+* [WebPageTest](https://www.webpagetest.org/)
+* [Speedtracker](https://speedtracker.org/)
+* [Grav](https://getgrav.org/)
